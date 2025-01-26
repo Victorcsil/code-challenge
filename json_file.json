@@ -1,0 +1,97 @@
+[
+    {
+      "entity": "order_details",
+      "path": "data/dump/order_details.csv",
+      "keys": [
+        "order_id",
+        "product_id"
+      ]
+    },
+    {
+      "entity": "public-categories",
+      "path": "data/dump/categories.csv",
+      "keys": [
+        "category_id"
+      ]
+    },
+    {
+      "entity": "customers",
+      "path": "data/dump/customers.csv",
+      "encoding": "UTF-8",
+      "keys": [
+        "customer_id"
+      ]
+    },
+    {
+      "entity": "employee_territories",
+      "path": "data/dump/employee_territories.csv",
+      "keys": [
+        "employee_id",
+        "territory_id"
+      ]
+    },
+    {
+      "entity": "employees",
+      "path": "data/dump/employees.csv",
+      "keys": [
+        "employee_id"
+      ]
+    },
+    {
+      "entity": "orders",
+      "path": "data/dump/orders.csv",
+      "encoding": "UTF-8",
+      "keys": [
+        "order_id",
+        "customer_id",
+        "employee_id"
+      ]
+    },
+    {
+      "entity": "products",
+      "path": "data/dump/products.csv",
+      "encoding": "UTF-8",
+      "keys": [
+        "product_id",
+        "supplier_id",
+        "category_id"
+      ]
+    },
+    {
+      "entity": "region",
+      "path": "data/dump/region.csv",
+      "keys": [
+        "region_id"
+      ]
+    },
+    {
+      "entity": "shippers",
+      "path": "data/dump/shippers.csv",
+      "keys": [
+        "shipper_id"
+      ]
+    },
+    {
+      "entity": "suppliers",
+      "path": "data/dump/suppliers.csv",
+      "encoding": "UTF-8",
+      "keys": [
+        "supplier_id"
+      ]
+    },
+    {
+      "entity": "territories",
+      "path": "data/dump/territories.csv",
+      "keys": [
+        "territory_id",
+        "region_id"
+      ]
+    },
+    {
+      "entity": "us_states",
+      "path": "data/dump/us_states.csv",
+      "keys": [
+        "state_id"
+      ]
+    }
+  ]
