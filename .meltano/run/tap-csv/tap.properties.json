@@ -1,6 +1,98 @@
 {
   "streams": [
     {
+      "tap_stream_id": "categories",
+      "replication_method": "FULL_TABLE",
+      "key_properties": [
+        "category_id"
+      ],
+      "schema": {
+        "properties": {
+          "category_id": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "category_name": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "description": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "picture": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "type": "object",
+        "$schema": "https://json-schema.org/draft/2020-12/schema"
+      },
+      "stream": "categories",
+      "metadata": [
+        {
+          "breadcrumb": [
+            "properties",
+            "category_id"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "category_name"
+          ],
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "description"
+          ],
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "picture"
+          ],
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [],
+          "metadata": {
+            "inclusion": "available",
+            "selected": true,
+            "selected-by-default": true,
+            "table-key-properties": [
+              "category_id"
+            ]
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
       "tap_stream_id": "customers",
       "replication_method": "FULL_TABLE",
       "key_properties": [
@@ -1133,98 +1225,6 @@
             "table-key-properties": [
               "product_id",
               "supplier_id",
-              "category_id"
-            ]
-          }
-        }
-      ],
-      "selected": true
-    },
-    {
-      "tap_stream_id": "public-categories",
-      "replication_method": "FULL_TABLE",
-      "key_properties": [
-        "category_id"
-      ],
-      "schema": {
-        "properties": {
-          "category_id": {
-            "type": [
-              "string",
-              "null"
-            ]
-          },
-          "category_name": {
-            "type": [
-              "string",
-              "null"
-            ]
-          },
-          "description": {
-            "type": [
-              "string",
-              "null"
-            ]
-          },
-          "picture": {
-            "type": [
-              "string",
-              "null"
-            ]
-          }
-        },
-        "type": "object",
-        "$schema": "https://json-schema.org/draft/2020-12/schema"
-      },
-      "stream": "public-categories",
-      "metadata": [
-        {
-          "breadcrumb": [
-            "properties",
-            "category_id"
-          ],
-          "metadata": {
-            "inclusion": "automatic",
-            "selected": true
-          }
-        },
-        {
-          "breadcrumb": [
-            "properties",
-            "category_name"
-          ],
-          "metadata": {
-            "inclusion": "available",
-            "selected": true
-          }
-        },
-        {
-          "breadcrumb": [
-            "properties",
-            "description"
-          ],
-          "metadata": {
-            "inclusion": "available",
-            "selected": true
-          }
-        },
-        {
-          "breadcrumb": [
-            "properties",
-            "picture"
-          ],
-          "metadata": {
-            "inclusion": "available",
-            "selected": true
-          }
-        },
-        {
-          "breadcrumb": [],
-          "metadata": {
-            "inclusion": "available",
-            "selected": true,
-            "selected-by-default": true,
-            "table-key-properties": [
               "category_id"
             ]
           }

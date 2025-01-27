@@ -1,2 +1,10 @@
-/venv
+.venv
 .env
+/analyse
+/dbdata
+/extract
+/load
+/notebook
+/output
+/transform
+

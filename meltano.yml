@@ -26,7 +26,8 @@ plugins:
     config:
       add_metadata_columns: false
       csv_files_definition: json_file.json
-      select: '*'
+    select:
+    - '*.*'
   - name: tap-csv--order-details
     inherit_from: tap-csv
     config:
