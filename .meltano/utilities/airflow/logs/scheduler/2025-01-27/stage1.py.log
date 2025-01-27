@@ -1,0 +1,483 @@
+[2025-01-26T22:01:28.845-0300] {processor.py:161} INFO - Started process (PID=86626) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:01:28.846-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:01:28.847-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:01:28.846-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:01:28.857-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:01:28.934-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:01:28.934-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:01:28.947-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:01:28.947-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:01:29.059-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.216 seconds
+[2025-01-26T22:02:00.311-0300] {processor.py:161} INFO - Started process (PID=86911) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:02:00.329-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:02:00.330-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:02:00.329-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:02:00.340-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:02:00.358-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:02:00.358-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:02:00.375-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:02:00.375-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:02:00.661-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.351 seconds
+[2025-01-26T22:02:31.221-0300] {processor.py:161} INFO - Started process (PID=87175) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:02:31.244-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:02:31.244-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:02:31.244-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:02:31.254-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:02:31.270-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:02:31.270-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:02:31.286-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:02:31.286-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:02:31.348-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.129 seconds
+[2025-01-26T22:03:01.878-0300] {processor.py:161} INFO - Started process (PID=87275) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:03:01.908-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:03:01.909-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:03:01.908-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:03:01.917-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:03:01.937-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:03:01.937-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:03:01.955-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:03:01.955-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:03:02.020-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.145 seconds
+[2025-01-26T22:03:33.423-0300] {processor.py:161} INFO - Started process (PID=87407) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:03:33.442-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:03:33.443-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:03:33.443-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:03:33.454-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:03:33.469-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:03:33.468-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:03:33.484-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:03:33.484-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:03:33.553-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.133 seconds
+[2025-01-26T22:04:06.031-0300] {processor.py:161} INFO - Started process (PID=87528) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:04:06.049-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:04:06.050-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:04:06.050-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:04:06.061-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:04:06.075-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:04:06.075-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:04:06.093-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:04:06.093-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:04:06.158-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.129 seconds
+[2025-01-26T22:04:39.062-0300] {processor.py:161} INFO - Started process (PID=87629) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:04:39.079-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:04:39.080-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:04:39.080-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:04:39.091-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:04:39.108-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:04:39.107-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:04:39.125-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:04:39.125-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:04:39.188-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.128 seconds
+[2025-01-26T22:05:11.925-0300] {processor.py:161} INFO - Started process (PID=87728) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:05:11.927-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:05:11.928-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:05:11.927-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:05:11.936-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:05:11.955-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:05:11.955-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:05:11.970-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:05:11.969-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:05:12.048-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.125 seconds
+[2025-01-26T22:05:44.046-0300] {processor.py:161} INFO - Started process (PID=87816) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:05:44.047-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:05:44.048-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:05:44.047-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:05:44.057-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:05:44.073-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:05:44.073-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:05:44.090-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:05:44.090-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:05:44.151-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.108 seconds
+[2025-01-26T22:06:15.880-0300] {processor.py:161} INFO - Started process (PID=87966) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:06:15.881-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:06:15.881-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:06:15.881-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:06:15.890-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:06:15.909-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:06:15.909-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:06:15.923-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:06:15.923-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:06:15.989-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.111 seconds
+[2025-01-26T22:06:48.984-0300] {processor.py:161} INFO - Started process (PID=88115) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:06:48.984-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:06:48.985-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:06:48.985-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:06:48.994-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:06:49.012-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:06:49.012-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:06:49.027-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:06:49.027-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:06:49.145-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.163 seconds
+[2025-01-26T22:07:24.108-0300] {processor.py:161} INFO - Started process (PID=88205) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:07:24.127-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:07:24.128-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:07:24.128-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:07:24.140-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:07:24.158-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:07:24.158-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:07:24.173-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:07:24.173-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:07:24.247-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.143 seconds
+[2025-01-26T22:07:56.145-0300] {processor.py:161} INFO - Started process (PID=88303) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:07:56.146-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:07:56.147-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:07:56.146-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:07:56.155-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:07:56.173-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:07:56.173-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:07:56.187-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:07:56.187-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:07:56.277-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.134 seconds
+[2025-01-26T22:08:28.362-0300] {processor.py:161} INFO - Started process (PID=88398) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:08:28.381-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:08:28.382-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:08:28.381-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:08:28.393-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:08:28.409-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:08:28.409-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:08:28.425-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:08:28.425-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:08:28.514-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.156 seconds
+[2025-01-26T22:09:02.701-0300] {processor.py:161} INFO - Started process (PID=88492) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:09:02.702-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:09:02.703-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:09:02.702-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:09:02.713-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:09:02.731-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:09:02.731-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:09:02.745-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:09:02.745-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:09:02.812-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.113 seconds
+[2025-01-26T22:09:34.812-0300] {processor.py:161} INFO - Started process (PID=88620) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:09:34.827-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:09:34.828-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:09:34.828-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:09:34.842-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:09:34.858-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:09:34.858-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:09:34.877-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:09:34.876-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:09:34.945-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.136 seconds
+[2025-01-26T22:10:07.536-0300] {processor.py:161} INFO - Started process (PID=88740) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:10:07.537-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:10:07.538-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:10:07.537-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:10:07.547-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:10:07.565-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:10:07.564-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:10:07.582-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:10:07.581-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:10:07.650-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.116 seconds
+[2025-01-26T22:10:42.370-0300] {processor.py:161} INFO - Started process (PID=88837) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:10:42.396-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:10:42.397-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:10:42.397-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:10:42.410-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:10:42.425-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:10:42.425-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:10:42.443-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:10:42.443-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:10:42.521-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.156 seconds
+[2025-01-26T22:11:14.576-0300] {processor.py:161} INFO - Started process (PID=88929) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:11:14.577-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:11:14.578-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:11:14.577-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:11:14.587-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:11:14.606-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:11:14.605-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:11:14.619-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:11:14.619-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:11:14.703-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.129 seconds
+[2025-01-26T22:11:46.696-0300] {processor.py:161} INFO - Started process (PID=89062) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:11:46.716-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:11:46.717-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:11:46.717-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:11:46.729-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:11:46.747-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:11:46.747-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:11:46.767-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:11:46.767-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:11:46.842-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.149 seconds
+[2025-01-26T22:12:19.070-0300] {processor.py:161} INFO - Started process (PID=89159) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:12:19.089-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:12:19.090-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:12:19.089-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:12:19.099-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:12:19.119-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:12:19.119-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:12:19.136-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:12:19.135-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:12:19.216-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.150 seconds
+[2025-01-26T22:12:51.368-0300] {processor.py:161} INFO - Started process (PID=89249) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:12:51.369-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:12:51.369-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:12:51.369-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:12:51.380-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:12:51.396-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:12:51.396-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:12:51.413-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:12:51.413-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:12:51.487-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.122 seconds
+[2025-01-26T22:13:27.408-0300] {processor.py:161} INFO - Started process (PID=89353) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:13:27.419-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:13:27.420-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:13:27.420-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:13:27.431-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:13:27.448-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:13:27.448-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:13:27.462-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:13:27.462-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:13:27.539-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.134 seconds
+[2025-01-26T22:14:00.718-0300] {processor.py:161} INFO - Started process (PID=89479) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:14:00.720-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:14:00.721-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:14:00.721-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:14:00.733-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:14:00.747-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:14:00.747-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:14:00.763-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:14:00.763-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:14:00.841-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.126 seconds
+[2025-01-26T22:14:33.138-0300] {processor.py:161} INFO - Started process (PID=89569) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:14:33.157-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:14:33.158-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:14:33.158-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:14:33.168-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:14:33.181-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:14:33.181-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:14:33.199-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:14:33.198-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:14:33.292-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.156 seconds
+[2025-01-26T22:15:05.562-0300] {processor.py:161} INFO - Started process (PID=89666) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:15:05.563-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:15:05.564-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:15:05.564-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:15:05.572-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:15:05.593-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:15:05.592-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:15:05.606-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:15:05.606-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:15:05.681-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.121 seconds
+[2025-01-26T22:15:40.491-0300] {processor.py:161} INFO - Started process (PID=89773) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:15:40.494-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:15:40.494-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:15:40.494-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:15:40.504-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:15:40.523-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:15:40.523-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:15:40.539-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:15:40.538-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:15:40.609-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.121 seconds
+[2025-01-26T22:16:13.227-0300] {processor.py:161} INFO - Started process (PID=89859) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:16:13.227-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:16:13.228-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:16:13.228-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:16:13.237-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:16:13.255-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:16:13.255-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:16:13.270-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:16:13.270-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:16:13.385-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.161 seconds
+[2025-01-26T22:16:46.847-0300] {processor.py:161} INFO - Started process (PID=89997) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:16:46.866-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:16:46.867-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:16:46.867-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:16:46.879-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:16:46.896-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:16:46.896-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:16:46.914-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:16:46.914-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:16:47.015-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.173 seconds
+[2025-01-26T22:17:22.055-0300] {processor.py:161} INFO - Started process (PID=90107) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:17:22.072-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:17:22.073-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:17:22.073-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:17:22.085-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:17:22.101-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:17:22.101-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:17:22.118-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:17:22.117-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:17:22.195-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.142 seconds
+[2025-01-26T22:17:55.667-0300] {processor.py:161} INFO - Started process (PID=90203) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:17:55.668-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:17:55.668-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:17:55.668-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:17:55.678-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:17:55.696-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:17:55.696-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:17:55.709-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:17:55.709-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:17:55.774-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.109 seconds
+[2025-01-26T22:18:27.782-0300] {processor.py:161} INFO - Started process (PID=90344) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:18:27.783-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:18:27.783-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:18:27.783-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:18:27.792-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:18:27.811-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:18:27.811-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:18:27.825-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:18:27.825-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:18:27.898-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.118 seconds
+[2025-01-26T22:18:59.900-0300] {processor.py:161} INFO - Started process (PID=90448) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:18:59.901-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:18:59.901-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:18:59.901-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:18:59.911-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:18:59.928-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:18:59.928-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:18:59.943-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:18:59.943-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:18:59.998-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.100 seconds
+[2025-01-26T22:19:32.202-0300] {processor.py:161} INFO - Started process (PID=90535) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:19:32.223-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:19:32.223-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:19:32.223-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:19:32.234-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:19:32.250-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:19:32.250-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:19:32.267-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:19:32.267-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:19:32.335-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.136 seconds
+[2025-01-26T22:20:07.030-0300] {processor.py:161} INFO - Started process (PID=90641) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:20:07.061-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:20:07.061-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:20:07.061-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:20:07.071-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:20:07.088-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:20:07.088-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:20:07.104-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:20:07.104-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:20:07.174-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.147 seconds
+[2025-01-26T22:20:42.563-0300] {processor.py:161} INFO - Started process (PID=90735) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:20:42.575-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:20:42.576-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:20:42.576-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:20:42.585-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:20:42.603-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:20:42.603-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:20:42.616-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:20:42.616-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:20:42.681-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.121 seconds
+[2025-01-26T22:21:15.271-0300] {processor.py:161} INFO - Started process (PID=90828) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:21:15.272-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:21:15.272-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:21:15.272-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:21:15.283-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:21:15.300-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:21:15.300-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:21:15.314-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:21:15.313-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:21:15.378-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.109 seconds
+[2025-01-26T22:21:48.690-0300] {processor.py:161} INFO - Started process (PID=90973) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:21:48.691-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:21:48.692-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:21:48.691-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:21:48.702-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:21:48.718-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:21:48.717-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:21:48.734-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:21:48.734-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:21:48.820-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.133 seconds
+[2025-01-26T22:22:22.224-0300] {processor.py:161} INFO - Started process (PID=91068) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:22:22.225-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:22:22.226-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:22:22.225-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:22:22.235-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:22:22.254-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:22:22.254-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:22:22.270-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:22:22.270-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:22:22.340-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.118 seconds
+[2025-01-26T22:22:56.354-0300] {processor.py:161} INFO - Started process (PID=91178) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:22:56.354-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:22:56.355-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:22:56.355-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:22:56.365-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:22:56.384-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:22:56.383-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:22:56.399-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:22:56.399-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:22:56.514-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.163 seconds
+[2025-01-26T22:23:29.174-0300] {processor.py:161} INFO - Started process (PID=91273) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:23:29.243-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:23:29.245-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:23:29.244-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:23:29.256-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:23:29.271-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:23:29.271-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:23:29.288-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:23:29.288-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:23:29.360-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.189 seconds
+[2025-01-26T22:24:02.132-0300] {processor.py:161} INFO - Started process (PID=91367) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:24:02.176-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:24:02.177-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:24:02.177-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:24:02.189-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:24:02.204-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:24:02.203-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:24:02.223-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:24:02.223-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:24:02.299-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.170 seconds
+[2025-01-26T22:24:34.699-0300] {processor.py:161} INFO - Started process (PID=91488) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:24:34.700-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:24:34.700-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:24:34.700-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:24:34.710-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:24:34.730-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:24:34.730-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:24:34.743-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:24:34.743-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:24:34.831-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.135 seconds
+[2025-01-26T22:25:07.906-0300] {processor.py:161} INFO - Started process (PID=91609) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:25:07.921-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:25:07.922-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:25:07.922-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:25:07.932-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:25:07.949-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:25:07.949-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:25:07.964-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:25:07.964-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:25:08.036-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.134 seconds
+[2025-01-26T22:25:44.043-0300] {processor.py:161} INFO - Started process (PID=91701) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:25:44.044-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:25:44.044-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:25:44.044-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:25:44.058-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:25:44.073-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:25:44.072-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:25:44.091-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:25:44.090-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:25:44.188-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.148 seconds
+[2025-01-26T22:26:19.269-0300] {processor.py:161} INFO - Started process (PID=91866) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:26:19.270-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:26:19.271-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:26:19.270-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:26:19.281-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:26:19.300-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:26:19.300-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:26:19.313-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:26:19.313-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:26:19.417-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.149 seconds
+[2025-01-26T22:26:51.674-0300] {processor.py:161} INFO - Started process (PID=91970) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:26:51.675-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:26:51.676-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:26:51.675-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:26:51.687-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:26:51.702-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:26:51.702-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:26:51.720-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:26:51.720-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:26:51.871-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.201 seconds
+[2025-01-26T22:27:24.087-0300] {processor.py:161} INFO - Started process (PID=92070) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:27:24.101-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:27:24.103-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:27:24.102-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:27:24.115-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:27:24.128-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:27:24.128-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:27:24.146-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:27:24.146-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:27:24.227-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.143 seconds
+[2025-01-26T22:27:57.994-0300] {processor.py:161} INFO - Started process (PID=92171) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:27:58.007-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:27:58.009-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:27:58.008-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:27:58.018-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:27:58.035-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:27:58.035-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:27:58.051-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:27:58.051-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:27:58.283-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.292 seconds
+[2025-01-26T22:28:30.716-0300] {processor.py:161} INFO - Started process (PID=92302) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:28:30.716-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:28:30.717-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:28:30.717-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:28:30.726-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:28:30.743-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:28:30.742-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:28:30.758-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:28:30.757-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:28:30.831-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.119 seconds
+[2025-01-26T22:29:02.430-0300] {processor.py:161} INFO - Started process (PID=92387) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:29:02.444-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:29:02.445-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:29:02.445-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:29:02.456-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:29:02.472-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:29:02.472-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:29:02.488-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:29:02.487-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:29:02.571-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.144 seconds
+[2025-01-26T22:29:34.637-0300] {processor.py:161} INFO - Started process (PID=92479) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:29:34.648-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:29:34.649-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:29:34.648-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:29:34.662-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:29:34.677-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:29:34.677-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:29:34.695-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:29:34.694-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:29:34.787-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.152 seconds
+[2025-01-26T22:30:06.847-0300] {processor.py:161} INFO - Started process (PID=92614) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:30:06.848-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:30:06.848-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:30:06.848-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:30:06.858-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:30:06.878-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:30:06.877-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:30:06.891-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:30:06.891-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:30:06.944-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.099 seconds
+[2025-01-26T22:30:39.504-0300] {processor.py:161} INFO - Started process (PID=92713) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:30:39.535-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:30:39.536-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:30:39.536-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:30:39.548-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:30:39.563-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:30:39.563-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:30:39.579-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:30:39.579-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:30:39.716-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.214 seconds
+[2025-01-26T22:31:11.608-0300] {processor.py:161} INFO - Started process (PID=92810) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:31:11.608-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:31:11.609-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:31:11.609-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:31:11.619-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:31:11.637-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:31:11.637-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:31:11.650-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:31:11.650-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:31:11.722-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.116 seconds
+[2025-01-26T22:31:45.122-0300] {processor.py:161} INFO - Started process (PID=92935) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:31:45.123-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:31:45.124-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:31:45.123-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:31:45.136-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:31:45.152-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:31:45.152-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:31:45.173-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:31:45.173-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:31:45.265-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.146 seconds
+[2025-01-26T22:32:17.164-0300] {processor.py:161} INFO - Started process (PID=93038) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:32:17.186-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:32:17.187-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:32:17.187-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:32:17.199-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:32:17.214-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:32:17.214-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:32:17.233-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:32:17.233-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:32:17.328-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.167 seconds
+[2025-01-26T22:32:49.934-0300] {processor.py:161} INFO - Started process (PID=93176) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:32:49.950-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:32:49.951-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:32:49.950-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:32:49.965-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:32:49.979-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:32:49.979-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:32:49.998-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:32:49.997-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:32:50.100-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.169 seconds
+[2025-01-26T22:33:25.978-0300] {processor.py:161} INFO - Started process (PID=93279) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:33:25.989-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:33:25.990-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:33:25.989-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:33:26.002-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:33:26.018-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:33:26.018-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:33:26.034-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:33:26.034-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:33:26.139-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.165 seconds
+[2025-01-26T22:33:58.210-0300] {processor.py:161} INFO - Started process (PID=93383) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:33:58.211-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:33:58.211-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:33:58.211-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:33:58.220-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:33:58.237-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:33:58.237-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:33:58.251-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:33:58.250-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:33:58.303-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.096 seconds
+[2025-01-26T22:34:30.440-0300] {processor.py:161} INFO - Started process (PID=93473) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:34:30.460-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:34:30.461-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:34:30.460-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:34:30.471-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:34:30.486-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:34:30.485-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:34:30.504-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:34:30.504-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:34:30.601-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.164 seconds
+[2025-01-26T22:35:07.172-0300] {processor.py:161} INFO - Started process (PID=93618) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:35:07.182-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:35:07.183-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:35:07.183-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:35:07.196-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:35:07.211-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:35:07.211-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:35:07.227-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:35:07.227-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:35:07.287-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.118 seconds
+[2025-01-26T22:35:39.815-0300] {processor.py:161} INFO - Started process (PID=93709) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:35:39.816-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:35:39.817-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:35:39.816-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:35:39.830-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:35:39.846-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:35:39.845-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:35:39.863-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:35:39.863-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:35:39.928-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.116 seconds
+[2025-01-26T22:36:12.134-0300] {processor.py:161} INFO - Started process (PID=93805) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:36:12.211-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:36:12.212-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:36:12.212-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:36:12.227-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:36:12.241-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:36:12.241-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:36:12.257-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:36:12.257-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:36:12.353-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.223 seconds
+[2025-01-26T22:36:33.397-0300] {processor.py:161} INFO - Started process (PID=93925) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:36:33.397-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:36:33.398-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:36:33.398-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:36:33.408-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:36:33.427-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:36:33.427-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:36:33.442-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:36:33.442-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:36:33.553-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.158 seconds
+[2025-01-26T22:37:04.393-0300] {processor.py:161} INFO - Started process (PID=94055) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:37:04.418-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:37:04.419-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:37:04.418-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:37:04.428-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:37:04.442-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:37:04.442-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:37:04.460-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:37:04.460-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:37:04.538-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.147 seconds
+[2025-01-26T22:37:35.502-0300] {processor.py:161} INFO - Started process (PID=94215) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:37:35.503-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:37:35.504-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:37:35.503-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:37:35.518-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:37:35.534-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:37:35.534-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:37:35.554-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:37:35.554-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:37:35.646-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.146 seconds
+[2025-01-26T22:38:05.737-0300] {processor.py:161} INFO - Started process (PID=94332) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:38:05.764-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:38:05.765-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:38:05.764-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:38:05.776-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:38:05.792-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:38:05.792-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:38:05.806-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:38:05.806-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:38:05.901-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.166 seconds
+[2025-01-26T22:38:36.236-0300] {processor.py:161} INFO - Started process (PID=94480) to work on /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:38:36.237-0300] {processor.py:830} INFO - Processing file /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py for tasks to queue
+[2025-01-26T22:38:36.238-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:38:36.237-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:38:36.247-0300] {processor.py:840} INFO - DAG(s) 'my_dag' retrieved from /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py
+[2025-01-26T22:38:36.263-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:38:36.262-0300] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-01-26T22:38:36.277-0300] {logging_mixin.py:188} INFO - [2025-01-26T22:38:36.277-0300] {dag.py:3823} INFO - Setting next_dagrun for my_dag to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-26T22:38:36.348-0300] {processor.py:183} INFO - Processing /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py took 0.114 seconds

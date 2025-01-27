@@ -1,0 +1,1674 @@
+[2025-01-26T20:56:11.422-0300] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-01-26T20:56:11.422-0300] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-01-26T20:56:11.422-0300] {manager.py:471} INFO - Checking for new files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags every 300 seconds
+[2025-01-26T20:56:11.423-0300] {manager.py:738} INFO - Searching for files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T20:56:11.425-0300] {manager.py:741} INFO - There are 1 files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T20:56:16.669-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  5.22s           2025-01-26T23:56:16
+================================================================================
+[2025-01-26T20:56:50.612-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.61s           2025-01-26T23:56:50
+================================================================================
+[2025-01-26T20:57:22.991-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-26T23:57:22
+================================================================================
+[2025-01-26T20:57:55.955-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.51s           2025-01-26T23:57:55
+================================================================================
+[2025-01-26T20:58:28.231-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-26T23:58:28
+================================================================================
+[2025-01-26T20:59:00.669-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.11s           2025-01-26T23:59:00
+================================================================================
+[2025-01-26T20:59:37.204-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  6.02s           2025-01-26T23:59:37
+================================================================================
+[2025-01-26T21:00:27.517-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.21s           2025-01-27T00:00:27
+================================================================================
+[2025-01-26T21:01:00.527-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.31s           2025-01-27T00:01:00
+================================================================================
+[2025-01-26T21:01:12.597-0300] {manager.py:738} INFO - Searching for files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:01:12.598-0300] {manager.py:741} INFO - There are 1 files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:01:33.953-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.41s           2025-01-27T00:01:33
+================================================================================
+[2025-01-26T21:02:09.304-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  5.01s           2025-01-27T00:02:09
+================================================================================
+[2025-01-26T21:02:58.129-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  8.82s           2025-01-27T00:02:58
+================================================================================
+[2025-01-26T21:03:34.479-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  6.03s           2025-01-27T00:03:34
+================================================================================
+[2025-01-26T21:04:09.906-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  5.32s           2025-01-27T00:04:09
+================================================================================
+[2025-01-26T21:04:42.952-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.81s           2025-01-27T00:04:42
+================================================================================
+[2025-01-26T21:05:15.501-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.41s           2025-01-27T00:05:15
+================================================================================
+[2025-01-26T21:05:51.447-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  5.91s           2025-01-27T00:05:51
+================================================================================
+[2025-01-26T21:06:12.963-0300] {manager.py:738} INFO - Searching for files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:06:12.964-0300] {manager.py:741} INFO - There are 1 files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:06:25.169-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.62s           2025-01-27T00:06:25
+================================================================================
+[2025-01-26T21:07:00.971-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.81s           2025-01-27T00:07:00
+================================================================================
+[2025-01-26T21:07:33.747-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-27T00:07:33
+================================================================================
+[2025-01-26T21:08:11.531-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  7.12s           2025-01-27T00:08:11
+================================================================================
+[2025-01-26T21:08:43.848-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.21s           2025-01-27T00:08:43
+================================================================================
+[2025-01-26T21:09:17.771-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.81s           2025-01-27T00:09:17
+================================================================================
+[2025-01-26T21:09:50.784-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.91s           2025-01-27T00:09:50
+================================================================================
+[2025-01-26T21:10:22.903-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-27T00:10:22
+================================================================================
+[2025-01-26T21:10:55.115-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.11s           2025-01-27T00:10:55
+================================================================================
+[2025-01-26T21:11:13.668-0300] {manager.py:738} INFO - Searching for files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:11:13.669-0300] {manager.py:741} INFO - There are 1 files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:11:27.433-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.21s           2025-01-27T00:11:27
+================================================================================
+[2025-01-26T21:12:02.445-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  4.91s           2025-01-27T00:12:02
+================================================================================
+[2025-01-26T21:12:35.585-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.11s           2025-01-27T00:12:35
+================================================================================
+[2025-01-26T21:13:09.915-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  4.21s           2025-01-27T00:13:09
+================================================================================
+[2025-01-26T21:13:43.257-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.21s           2025-01-27T00:13:43
+================================================================================
+[2025-01-26T21:14:15.671-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.31s           2025-01-27T00:14:15
+================================================================================
+[2025-01-26T21:14:48.521-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.71s           2025-01-27T00:14:48
+================================================================================
+[2025-01-26T21:15:21.347-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.71s           2025-01-27T00:15:21
+================================================================================
+[2025-01-26T21:15:57.875-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  6.42s           2025-01-27T00:15:57
+================================================================================
+[2025-01-26T21:16:14.291-0300] {manager.py:738} INFO - Searching for files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:16:14.292-0300] {manager.py:741} INFO - There are 1 files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:16:30.189-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.21s           2025-01-27T00:16:30
+================================================================================
+[2025-01-26T21:17:02.699-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.41s           2025-01-27T00:17:02
+================================================================================
+[2025-01-26T21:17:35.820-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.01s           2025-01-27T00:17:35
+================================================================================
+[2025-01-26T21:18:07.937-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-27T00:18:07
+================================================================================
+[2025-01-26T21:18:41.166-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.21s           2025-01-27T00:18:41
+================================================================================
+[2025-01-26T21:19:14.885-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.61s           2025-01-27T00:19:14
+================================================================================
+[2025-01-26T21:19:47.908-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.91s           2025-01-27T00:19:47
+================================================================================
+[2025-01-26T21:20:19.930-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  1.91s           2025-01-27T00:20:19
+================================================================================
+[2025-01-26T21:20:52.143-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.11s           2025-01-27T00:20:52
+================================================================================
+[2025-01-26T21:21:14.651-0300] {manager.py:738} INFO - Searching for files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:21:14.652-0300] {manager.py:741} INFO - There are 1 files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:21:24.267-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-27T00:21:24
+================================================================================
+[2025-01-26T21:21:59.084-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  4.71s           2025-01-27T00:21:59
+================================================================================
+[2025-01-26T21:22:32.392-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.21s           2025-01-27T00:22:32
+================================================================================
+[2025-01-26T21:23:05.537-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.01s           2025-01-27T00:23:05
+================================================================================
+[2025-01-26T21:23:38.249-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.61s           2025-01-27T00:23:38
+================================================================================
+[2025-01-26T21:24:10.862-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.51s           2025-01-27T00:24:10
+================================================================================
+[2025-01-26T21:24:53.727-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  5.11s           2025-01-27T00:24:53
+================================================================================
+[2025-01-26T21:25:26.488-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-27T00:25:26
+================================================================================
+[2025-01-26T21:25:58.768-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-27T00:25:58
+================================================================================
+[2025-01-26T21:26:14.769-0300] {manager.py:738} INFO - Searching for files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:26:14.770-0300] {manager.py:741} INFO - There are 1 files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:26:32.650-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.81s           2025-01-27T00:26:32
+================================================================================
+[2025-01-26T21:27:06.408-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.51s           2025-01-27T00:27:06
+================================================================================
+[2025-01-26T21:27:38.518-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-27T00:27:38
+================================================================================
+[2025-01-26T21:28:14.060-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  5.41s           2025-01-27T00:28:14
+================================================================================
+[2025-01-26T21:28:48.588-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  4.41s           2025-01-27T00:28:48
+================================================================================
+[2025-01-26T21:29:22.099-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.41s           2025-01-27T00:29:22
+================================================================================
+[2025-01-26T21:29:56.060-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.81s           2025-01-27T00:29:56
+================================================================================
+[2025-01-26T21:30:30.100-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.91s           2025-01-27T00:30:30
+================================================================================
+[2025-01-26T21:31:06.624-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  6.42s           2025-01-27T00:31:06
+================================================================================
+[2025-01-26T21:31:14.892-0300] {manager.py:738} INFO - Searching for files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:31:14.893-0300] {manager.py:741} INFO - There are 1 files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:31:41.665-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  4.91s           2025-01-27T00:31:41
+================================================================================
+[2025-01-26T21:32:13.904-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.11s           2025-01-27T00:32:13
+================================================================================
+[2025-01-26T21:32:48.056-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  4.02s           2025-01-27T00:32:48
+================================================================================
+[2025-01-26T21:33:20.437-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.21s           2025-01-27T00:33:20
+================================================================================
+[2025-01-26T21:33:52.783-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.21s           2025-01-27T00:33:52
+================================================================================
+[2025-01-26T21:34:25.112-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.21s           2025-01-27T00:34:25
+================================================================================
+[2025-01-26T21:34:57.880-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.61s           2025-01-27T00:34:57
+================================================================================
+[2025-01-26T21:35:31.602-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.61s           2025-01-27T00:35:31
+================================================================================
+[2025-01-26T21:36:03.916-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.21s           2025-01-27T00:36:03
+================================================================================
+[2025-01-26T21:36:15.410-0300] {manager.py:738} INFO - Searching for files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:36:15.411-0300] {manager.py:741} INFO - There are 2 files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:36:38.840-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         0           1  0.41s           2025-01-27T00:36:18
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  4.81s           2025-01-27T00:36:38
+================================================================================
+[2025-01-26T21:37:15.185-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         0           1  0.11s           2025-01-27T00:36:56
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  6.21s           2025-01-27T00:37:15
+================================================================================
+[2025-01-26T21:37:49.635-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.61s           2025-01-27T00:37:40
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.21s           2025-01-27T00:37:49
+================================================================================
+[2025-01-26T21:38:22.311-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  1.21s           2025-01-27T00:38:13
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.31s           2025-01-27T00:38:22
+================================================================================
+[2025-01-26T21:38:56.679-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.20s           2025-01-27T00:38:43
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  4.31s           2025-01-27T00:38:56
+================================================================================
+[2025-01-26T21:39:29.155-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.21s           2025-01-27T00:39:14
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.41s           2025-01-27T00:39:29
+================================================================================
+[2025-01-26T21:40:03.232-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.20s           2025-01-27T00:39:45
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.91s           2025-01-27T00:40:03
+================================================================================
+[2025-01-26T21:40:35.562-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.21s           2025-01-27T00:40:19
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.21s           2025-01-27T00:40:35
+================================================================================
+[2025-01-26T21:41:09.196-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  1.31s           2025-01-27T00:40:51
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.01s           2025-01-27T00:41:09
+================================================================================
+[2025-01-26T21:41:16.393-0300] {manager.py:738} INFO - Searching for files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:41:16.394-0300] {manager.py:741} INFO - There are 2 files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:41:44.446-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.21s           2025-01-27T00:41:22
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  5.11s           2025-01-27T00:41:44
+================================================================================
+[2025-01-26T21:42:16.672-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.31s           2025-01-27T00:42:03
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.11s           2025-01-27T00:42:16
+================================================================================
+[2025-01-26T21:42:51.201-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.20s           2025-01-27T00:42:34
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  4.42s           2025-01-27T00:42:51
+================================================================================
+[2025-01-26T21:43:24.820-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.20s           2025-01-27T00:43:04
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.51s           2025-01-27T00:43:24
+================================================================================
+[2025-01-26T21:43:57.039-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.21s           2025-01-27T00:43:35
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.11s           2025-01-27T00:43:57
+================================================================================
+[2025-01-26T21:44:30.450-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.20s           2025-01-27T00:44:05
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.31s           2025-01-27T00:44:30
+================================================================================
+[2025-01-26T21:45:06.859-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.20s           2025-01-27T00:44:35
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  6.31s           2025-01-27T00:45:06
+================================================================================
+[2025-01-26T21:45:41.842-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.20s           2025-01-27T00:45:08
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  4.82s           2025-01-27T00:45:41
+================================================================================
+[2025-01-26T21:46:14.115-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.20s           2025-01-27T00:45:43
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.21s           2025-01-27T00:46:14
+================================================================================
+[2025-01-26T21:46:16.431-0300] {manager.py:738} INFO - Searching for files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:46:16.433-0300] {manager.py:741} INFO - There are 2 files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:46:49.139-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.21s           2025-01-27T00:46:15
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  4.92s           2025-01-27T00:46:49
+================================================================================
+[2025-01-26T21:47:23.820-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.21s           2025-01-27T00:46:50
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  4.01s           2025-01-27T00:47:23
+================================================================================
+[2025-01-26T21:47:56.826-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  2.11s           2025-01-27T00:47:27
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.31s           2025-01-27T00:47:56
+================================================================================
+[2025-01-26T21:48:29.741-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.20s           2025-01-27T00:47:58
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.11s           2025-01-27T00:48:29
+================================================================================
+[2025-01-26T21:49:06.412-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.21s           2025-01-27T00:48:54
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  5.31s           2025-01-27T00:49:06
+================================================================================
+[2025-01-26T21:49:42.738-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.21s           2025-01-27T00:49:25
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  6.21s           2025-01-27T00:49:42
+================================================================================
+[2025-01-26T21:50:15.243-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.20s           2025-01-27T00:49:56
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.41s           2025-01-27T00:50:15
+================================================================================
+[2025-01-26T21:51:06.998-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.30s           2025-01-27T00:50:32
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  4.31s           2025-01-27T00:51:06
+================================================================================
+[2025-01-26T21:51:17.265-0300] {manager.py:738} INFO - Searching for files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:51:17.266-0300] {manager.py:741} INFO - There are 2 files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:51:41.853-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.20s           2025-01-27T00:51:07
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  4.31s           2025-01-27T00:51:41
+================================================================================
+[2025-01-26T21:52:15.843-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.30s           2025-01-27T00:51:43
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.21s           2025-01-27T00:52:15
+================================================================================
+[2025-01-26T21:52:48.151-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.20s           2025-01-27T00:52:17
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.11s           2025-01-27T00:52:48
+================================================================================
+[2025-01-26T21:53:20.361-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.21s           2025-01-27T00:52:49
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.11s           2025-01-27T00:53:20
+================================================================================
+[2025-01-26T21:53:57.284-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.20s           2025-01-27T00:53:21
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  6.81s           2025-01-27T00:53:57
+================================================================================
+[2025-01-26T21:54:29.797-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.20s           2025-01-27T00:53:58
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.41s           2025-01-27T00:54:29
+================================================================================
+[2025-01-26T21:55:03.525-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.20s           2025-01-27T00:54:31
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.61s           2025-01-27T00:55:03
+================================================================================
+[2025-01-26T21:55:36.937-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.20s           2025-01-27T00:55:04
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.31s           2025-01-27T00:55:36
+================================================================================
+[2025-01-26T21:56:09.148-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.20s           2025-01-27T00:55:38
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.11s           2025-01-27T00:56:09
+================================================================================
+[2025-01-26T21:56:17.344-0300] {manager.py:738} INFO - Searching for files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:56:17.345-0300] {manager.py:741} INFO - There are 2 files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T21:56:41.468-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.20s           2025-01-27T00:56:10
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.21s           2025-01-27T00:56:41
+================================================================================
+[2025-01-26T21:57:14.698-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.20s           2025-01-27T00:56:42
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.11s           2025-01-27T00:57:14
+================================================================================
+[2025-01-26T21:57:50.129-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py                                         1           0  0.21s           2025-01-27T00:57:15
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  5.32s           2025-01-27T00:57:50
+================================================================================
+[2025-01-26T21:58:15.580-0300] {manager.py:1129} WARNING - Skipping processing of missing file: /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/testdag.py
+[2025-01-26T21:58:25.850-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  5.61s           2025-01-27T00:58:25
+================================================================================
+[2025-01-26T21:58:59.561-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.61s           2025-01-27T00:58:59
+================================================================================
+[2025-01-26T21:59:31.678-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-27T00:59:31
+================================================================================
+[2025-01-26T22:00:09.239-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  7.42s           2025-01-27T01:00:09
+================================================================================
+[2025-01-26T22:00:43.514-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  4.21s           2025-01-27T01:00:43
+================================================================================
+[2025-01-26T22:01:15.737-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.11s           2025-01-27T01:01:15
+================================================================================
+[2025-01-26T22:01:17.890-0300] {manager.py:738} INFO - Searching for files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T22:01:17.891-0300] {manager.py:741} INFO - There are 3 files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T22:01:51.422-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.30s           2025-01-27T01:01:29
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.50s           2025-01-27T01:01:18
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  5.52s           2025-01-27T01:01:51
+================================================================================
+[2025-01-26T22:02:23.581-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.41s           2025-01-27T01:02:00
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:01:52
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-27T01:02:23
+================================================================================
+[2025-01-26T22:02:55.647-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:02:31
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:02:24
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-27T01:02:55
+================================================================================
+[2025-01-26T22:03:31.066-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:03:02
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:02:56
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  5.31s           2025-01-27T01:03:31
+================================================================================
+[2025-01-26T22:04:03.711-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:03:33
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:03:32
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.51s           2025-01-27T01:04:03
+================================================================================
+[2025-01-26T22:04:36.725-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:04:06
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:04:04
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.91s           2025-01-27T01:04:36
+================================================================================
+[2025-01-26T22:05:09.554-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:04:39
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:04:38
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.71s           2025-01-27T01:05:09
+================================================================================
+[2025-01-26T22:05:41.713-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:05:12
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:05:10
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-27T01:05:41
+================================================================================
+[2025-01-26T22:06:13.741-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:05:44
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:05:43
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-27T01:06:13
+================================================================================
+[2025-01-26T22:06:18.127-0300] {manager.py:738} INFO - Searching for files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T22:06:18.129-0300] {manager.py:741} INFO - There are 3 files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T22:06:46.656-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:06:16
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:06:15
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.81s           2025-01-27T01:06:46
+================================================================================
+[2025-01-26T22:07:21.678-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:06:49
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:06:47
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  4.91s           2025-01-27T01:07:21
+================================================================================
+[2025-01-26T22:07:53.796-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:07:24
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.31s           2025-01-27T01:07:23
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-27T01:07:53
+================================================================================
+[2025-01-26T22:08:26.034-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:07:56
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:07:55
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.11s           2025-01-27T01:08:26
+================================================================================
+[2025-01-26T22:09:00.353-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:08:28
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:08:27
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  4.21s           2025-01-27T01:09:00
+================================================================================
+[2025-01-26T22:09:32.491-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:09:02
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:09:01
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-27T01:09:32
+================================================================================
+[2025-01-26T22:10:05.203-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:09:35
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:09:33
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.61s           2025-01-27T01:10:05
+================================================================================
+[2025-01-26T22:10:40.032-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:10:07
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:10:06
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  4.72s           2025-01-27T01:10:40
+================================================================================
+[2025-01-26T22:11:12.258-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:10:42
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:10:41
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.11s           2025-01-27T01:11:12
+================================================================================
+[2025-01-26T22:11:18.419-0300] {manager.py:738} INFO - Searching for files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T22:11:18.420-0300] {manager.py:741} INFO - There are 3 files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T22:11:44.368-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:11:14
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:11:13
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-27T01:11:44
+================================================================================
+[2025-01-26T22:12:16.685-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:11:46
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:11:45
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.21s           2025-01-27T01:12:16
+================================================================================
+[2025-01-26T22:12:48.961-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:12:19
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:12:18
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.11s           2025-01-27T01:12:48
+================================================================================
+[2025-01-26T22:13:25.064-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:12:51
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:12:50
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  5.92s           2025-01-27T01:13:25
+================================================================================
+[2025-01-26T22:13:58.398-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:13:27
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:13:26
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.21s           2025-01-27T01:13:58
+================================================================================
+[2025-01-26T22:14:30.810-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:14:00
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:13:59
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.31s           2025-01-27T01:14:30
+================================================================================
+[2025-01-26T22:15:03.233-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:14:33
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:14:32
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.31s           2025-01-27T01:15:03
+================================================================================
+[2025-01-26T22:15:38.155-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:15:05
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:15:04
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  4.81s           2025-01-27T01:15:38
+================================================================================
+[2025-01-26T22:16:10.878-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:15:40
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:15:39
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.61s           2025-01-27T01:16:10
+================================================================================
+[2025-01-26T22:16:19.197-0300] {manager.py:738} INFO - Searching for files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T22:16:19.199-0300] {manager.py:741} INFO - There are 3 files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T22:16:44.519-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:16:13
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:16:12
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.51s           2025-01-27T01:16:44
+================================================================================
+[2025-01-26T22:17:19.739-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:16:47
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:16:45
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  5.12s           2025-01-27T01:17:19
+================================================================================
+[2025-01-26T22:17:53.349-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:17:22
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:17:21
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.51s           2025-01-27T01:17:53
+================================================================================
+[2025-01-26T22:18:25.461-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:17:55
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:17:54
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-27T01:18:25
+================================================================================
+[2025-01-26T22:18:57.572-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:18:27
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:18:26
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-27T01:18:57
+================================================================================
+[2025-01-26T22:19:29.888-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:19:00
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:18:58
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.21s           2025-01-27T01:19:29
+================================================================================
+[2025-01-26T22:20:04.595-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:19:32
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:19:31
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  4.61s           2025-01-27T01:20:04
+================================================================================
+[2025-01-26T22:20:40.224-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:20:07
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.30s           2025-01-27T01:20:05
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  5.51s           2025-01-27T01:20:40
+================================================================================
+[2025-01-26T22:21:12.949-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:20:42
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:20:41
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.61s           2025-01-27T01:21:12
+================================================================================
+[2025-01-26T22:21:20.141-0300] {manager.py:738} INFO - Searching for files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T22:21:20.142-0300] {manager.py:741} INFO - There are 3 files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T22:21:46.363-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:21:15
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:21:14
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.31s           2025-01-27T01:21:46
+================================================================================
+[2025-01-26T22:22:19.887-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:21:48
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:21:47
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.42s           2025-01-27T01:22:19
+================================================================================
+[2025-01-26T22:22:54.012-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:22:22
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:22:21
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  4.01s           2025-01-27T01:22:54
+================================================================================
+[2025-01-26T22:23:26.841-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:22:56
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:22:55
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.71s           2025-01-27T01:23:26
+================================================================================
+[2025-01-26T22:23:59.658-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:23:29
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:23:28
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.71s           2025-01-27T01:23:59
+================================================================================
+[2025-01-26T22:24:32.826-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:24:02
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.30s           2025-01-27T01:24:01
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.01s           2025-01-27T01:24:32
+================================================================================
+[2025-01-26T22:25:05.563-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:24:34
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:24:33
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.61s           2025-01-27T01:25:05
+================================================================================
+[2025-01-26T22:25:41.701-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:25:08
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:25:06
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  6.01s           2025-01-27T01:25:41
+================================================================================
+[2025-01-26T22:26:16.943-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:25:44
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:25:43
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  5.12s           2025-01-27T01:26:16
+================================================================================
+[2025-01-26T22:26:20.489-0300] {manager.py:738} INFO - Searching for files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T22:26:20.490-0300] {manager.py:741} INFO - There are 3 files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T22:26:49.158-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:26:19
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:26:18
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.11s           2025-01-27T01:26:49
+================================================================================
+[2025-01-26T22:27:21.767-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.30s           2025-01-27T01:26:51
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:26:50
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.31s           2025-01-27T01:27:21
+================================================================================
+[2025-01-26T22:27:55.679-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:27:24
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:27:23
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.81s           2025-01-27T01:27:55
+================================================================================
+[2025-01-26T22:28:27.883-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.30s           2025-01-27T01:27:58
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:27:56
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.11s           2025-01-27T01:28:27
+================================================================================
+[2025-01-26T22:29:00.100-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:28:30
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.71s           2025-01-27T01:28:29
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.11s           2025-01-27T01:29:00
+================================================================================
+[2025-01-26T22:29:32.316-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:29:02
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:29:01
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.11s           2025-01-27T01:29:32
+================================================================================
+[2025-01-26T22:30:04.532-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:29:34
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:29:33
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.11s           2025-01-27T01:30:04
+================================================================================
+[2025-01-26T22:30:37.139-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:30:07
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:30:05
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.51s           2025-01-27T01:30:37
+================================================================================
+[2025-01-26T22:31:09.292-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.31s           2025-01-27T01:30:39
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:30:38
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-27T01:31:09
+================================================================================
+[2025-01-26T22:31:20.544-0300] {manager.py:738} INFO - Searching for files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T22:31:20.546-0300] {manager.py:741} INFO - There are 3 files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T22:31:42.801-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:31:11
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:31:10
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.41s           2025-01-27T01:31:42
+================================================================================
+[2025-01-26T22:32:15.014-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:31:45
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:31:44
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.11s           2025-01-27T01:32:15
+================================================================================
+[2025-01-26T22:32:47.554-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:32:17
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:32:16
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.41s           2025-01-27T01:32:47
+================================================================================
+[2025-01-26T22:33:23.629-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:32:50
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:32:48
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  5.91s           2025-01-27T01:33:23
+================================================================================
+[2025-01-26T22:33:55.865-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:33:26
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:33:24
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.11s           2025-01-27T01:33:55
+================================================================================
+[2025-01-26T22:34:28.001-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.11s           2025-01-27T01:33:58
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:33:57
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-27T01:34:28
+================================================================================
+[2025-01-26T22:35:04.848-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:34:30
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.30s           2025-01-27T01:34:29
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  6.73s           2025-01-27T01:35:04
+================================================================================
+[2025-01-26T22:35:37.464-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:35:07
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:35:06
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.51s           2025-01-27T01:35:37
+================================================================================
+[2025-01-26T22:36:09.808-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:35:40
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:35:38
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.21s           2025-01-27T01:36:09
+================================================================================
+[2025-01-26T22:36:21.128-0300] {manager.py:738} INFO - Searching for files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T22:36:21.130-0300] {manager.py:741} INFO - There are 3 files in /home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags
+[2025-01-26T22:36:41.925-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.21s           2025-01-27T01:36:33
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:36:11
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-27T01:36:41
+================================================================================
+[2025-01-26T22:37:14.039-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:37:04
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:36:43
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.01s           2025-01-27T01:37:14
+================================================================================
+[2025-01-26T22:37:47.265-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:37:35
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.20s           2025-01-27T01:37:15
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  3.11s           2025-01-27T01:37:47
+================================================================================
+[2025-01-26T22:38:19.675-0300] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage1.py                                          1           0  0.20s           2025-01-27T01:38:05
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/stage2.py                                          1           0  0.21s           2025-01-27T01:37:48
+/home/victor/Desktop/TESTE/code-challenge/orchestrate/airflow/dags/meltano_dag_generator.py                           3           0  2.31s           2025-01-27T01:38:19
+================================================================================
